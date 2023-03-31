@@ -1,5 +1,6 @@
+Black code style
 # bot
-Minimal bot template Hikari &amp; Crescent
+Minimal bot template `Hikari` &amp; `Crescent`
 # requirements
 `git`
 `python3.11`
