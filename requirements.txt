@@ -1,0 +1,7 @@
+hikari
+hikari-crescent
+
+uvloop
+hikari[speedups]
+
+python-dotenv
