@@ -1,3 +1,5 @@
+# bot
+
 <div align="center">
 
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v1.json)](https://github.com/charliermarsh/ruff)
@@ -5,7 +7,6 @@
 
 </div>
 
-# bot
 Minimal bot template [Hikari](https://github.com/hikari-py/hikari) &amp; [Crescent](https://github.com/hikari-crescent/hikari-crescent)
 # requirements
 `git`
