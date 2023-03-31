@@ -4,6 +4,7 @@
 ![code-style-black](https://img.shields.io/badge/code%20style-black-black)
 
 </div>
+
 # bot
 Minimal bot template [Hikari](https://github.com/hikari-py/hikari) &amp; [Crescent](https://github.com/hikari-crescent/hikari-crescent)
 # requirements
