@@ -1,6 +1,10 @@
 # bot
 Minimal bot template Hikari &amp; Crescent
 # requirements
+`git`
+`python3.11`
+`python3.11` `venv`
+## ubuntu
 `sudo apt install git`\
 `sudo apt install python3.11`\
 `sudo apt install python3.11-venv`
