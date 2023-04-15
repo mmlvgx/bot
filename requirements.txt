@@ -1,0 +1,10 @@
+flask
+
+hikari
+hikari[speedups]
+hikari-crescent
+
+python-dotenv
+
+uvloop
+orjson

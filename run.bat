@@ -1,0 +1,1 @@
+python3 -OO -B -m src.bot
